@@ -1,0 +1,3 @@
+This is an additional file which I am using in a second branch
+The parent for my_second_branch should be my_first_branch
+The parent for my_first_branch should be main
